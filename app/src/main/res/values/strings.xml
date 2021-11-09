@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">formularioEstudio</string>
+    <string name="datos_del_estuidante">Datos del estuidante</string>
+    <string name="dni">DNI</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha_de_naciemiento">Fecha de Naciemiento</string>
+    <string name="hora_preferida_de_llamada">Hora preferida de llamada</string>
+    <string name="monstrar_datos">Monstrar Datos</string>
+    <string name="datos_del_estudiante">Datos del estudiante</string>
+    <string-array name="sa_cursos">
+        <item>------</item>
+        <item>1º DAM</item>
+        <item>2º DAM</item>
+        <item>1º SMR</item>
+        <item>2º SMR</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
